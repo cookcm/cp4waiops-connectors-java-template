@@ -16,7 +16,7 @@ configurations:
 
 images:
   - name: java-grpc-connector-template
-    newName: cookcm/sample-java-template
+    newName: docker.io/cookcm/sample-java-template
     newTag: latest
   - name: generic-topology-processor
     newName: cp.icr.io/cp/cp4waiops/generic-topology-processor

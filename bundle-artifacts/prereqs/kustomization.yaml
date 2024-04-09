@@ -20,4 +20,4 @@ images:
     newTag: latest
   - name: generic-topology-processor
     newName: cp.icr.io/cp/cp4waiops/generic-topology-processor
-    digest: sha256:44cebf831bbf89d7bf492871aea4bd900000f3730acde7b1c2eb2862f53caf9a
+    digest: sha256:a25bdeb0a8beae638173b28b69daa6cddbfa8dd6cce36853d069f36b057a43e9
